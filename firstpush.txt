@@ -1,3 +1,1 @@
 hello the first push is to github
-hi this is second push
-this is to configure the details 
